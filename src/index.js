@@ -5,7 +5,7 @@ import { coolifyTools } from "./tools/coolify.js";
 import { nextcloudTools } from "./tools/nextcloud.js";
 
 const server = new McpServer({
-  name: "coolify-nextcloud-mcp",
+  name: "dfwsc-mcp",
   version: "1.0.0",
 });
 
